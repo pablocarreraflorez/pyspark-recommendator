@@ -1,2 +1,3 @@
-# recommendators
-Some recommendation systems developed in python
+# Recommendators
+Some recommendation systems developed in python:
+* Movielens: colaborative filtering
